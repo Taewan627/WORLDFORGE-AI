@@ -1,0 +1,5 @@
+{
+  "name": "WorldForge AI",
+  "description": "A cinematic worldbuilding and concept art generator using Gemini AI to visualize distinct locations based on story seeds.",
+  "requestFramePermissions": []
+}
