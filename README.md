@@ -1,23 +1,25 @@
+# WorldForge AI — Automatic Worldbuilding & Background Generator
 
-# Run and deploy your AI Studio app
+WorldForge AI generates entire fictional worlds, cinematic locations, and ready-to-use background prompts for creators working on **Patreon, DA, Pixiv, X, visual novels, comics, and worldbuilding projects**.
 
-This contains everything you need to run your app locally.
+This tool transforms a simple worldbuilding seed (one line of text) into a complete world package with detailed locations, lore hints, and high-quality background prompts.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1K3KME4qAffFrKTKP5knFAv3MSZgHVOVP
+---
 
-## Run Locally
+## 🚀 Features
 
-**Prerequisites:**  Node.js
+- 🌍 Automatic world generation from a single seed  
+- 🧩 Core world pillars & theme extraction  
+- 🗺️ 10–16 cinematic locations per world  
+- 🎭 Story hints & lore fragments  
+- 🖼️ Background prompt generator (short & long prompts)  
+- 📁 Organized JSON output for automation pipelines  
+- 🎨 Perfect for background packs (960 / 1920 / 4K)  
+- 📝 Expandable for VN development, storyboarding, teaser pipelines  
 
+---
 
-🌍 Full world title & tagline
+## 🧠 Master Prompt (Input to Your LLM)
 
-🧩 Core world pillars
+Use this prompt with any LLM to generate a complete world JSON:
 
-🗺️ 10–16 detailed locations
-
-🎭 Story hints & lore fragments
-
-🖼️ Cinematic image prompts (short & long)
-
-📁 Auto-ready JSON for image generation pipelines (960 / 1920 / 4K)
